@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pizza order system gui", "pizza order system gui\pizza order system gui.pyproj", "{FDA9CDAB-4330-4BC7-AE9B-7F5E5D217BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA9CDAB-4330-4BC7-AE9B-7F5E5D217BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA9CDAB-4330-4BC7-AE9B-7F5E5D217BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902C32CC-5A01-4C04-8430-545BE109123B}
+	EndGlobalSection
+EndGlobal
